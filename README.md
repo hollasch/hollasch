@@ -1,5 +1,10 @@
 Here's my stuff. Feel free to ask questions or log issues.
 
+## Books
+| Site                                                   | Description
+|:-------------------------------------------------------|:------------------------------------------------------------------------------------
+| [raytracing.github.io](https://raytracing.github.io/)  | The _Ray Tracing in One Weekend_ book series. Three online books (with source) on how to write your own raytracer
+
 ## Tools
 | Repo                                                   | Description
 |:-------------------------------------------------------|:------------------------------------------------------------------------------------
@@ -24,6 +29,3 @@ Here's my stuff. Feel free to ask questions or log issues.
 | [pi-lab](https://github.com/hollasch/pi-lab)           | Archive of some Raspberry Pi Python scripts I wrote a while ago.
 | [ray4](https://github.com/hollasch/ray4)               | Source + doc of my master's thesis _Four-Space Visualization of 4D Objects_. 4D raytracer.
 | [srhlab](https://github.com/hollasch/srhlab)           | Random fragments and notes to document various programming concepts I've learned.
-
-Also be sure to check out https://raytracing.github.io. This is Peter Shirley's _Ray Tracing in One
-Weekend_ book series, free and online!
