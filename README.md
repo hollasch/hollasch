@@ -23,9 +23,11 @@ Here's my stuff. Feel free to ask questions or log issues.
 |:-------------------------------------------------------|:------------------------------------------------------------------------------------
 | [fpWorkbench](https://github.com/hollasch/fpWorkbench) | A set of C++ programs for experimenting with floating point numbers
 | [gibber](https://github.com/hollasch/gibber)           | I have a personal Perl script to generate English-like gibberish (for password inspiration). Someday I hope to port this to multiple platforms as a C++ tool.
+| [git-site](https://github.com/hollasch/git-site)       | A custom Git shell command to launch the home page for the current project
 | [hollasch](https://github.com/hollasch/hollasch)       | Magical repository that allows me to have a profile README
 | [jumpdir](https://github.com/hollasch/jumpdir)         | Sigh. _Someday_ I'll get to this V2 port of a very awesome tool I wrote years ago.
 | [LSON](https://github.com/hollasch/LSON)               | Needs a better name. Yet another rethinking of JSON, with tables, graphs, and much better freedom for expressing arbitrary data types.
 | [pi-lab](https://github.com/hollasch/pi-lab)           | Archive of some Raspberry Pi Python scripts I wrote a while ago.
 | [ray4](https://github.com/hollasch/ray4)               | Source + doc of my master's thesis _Four-Space Visualization of 4D Objects_. 4D raytracer.
 | [srhlab](https://github.com/hollasch/srhlab)           | Random fragments and notes to document various programming concepts I've learned.
+| [stochastic-urn](https://hollasch.github.io/stochastic-urn) | A simple web page illustrating the stochastic urn model of disease contagion
