@@ -1,5 +1,7 @@
 Here's my stuff. Feel free to ask questions or log issues.
 
+<details><summary>Index of Repositories</summary>
+
 ## Books
 | Site                                                   | Description
 |:-------------------------------------------------------|:------------------------------------------------------------------------------------
@@ -32,3 +34,5 @@ Here's my stuff. Feel free to ask questions or log issues.
 | [srhlab](https://github.com/hollasch/srhlab)           | Random fragments and notes to document various programming concepts I've learned.
 | [smooth-hull](https://github.com/hollasch/smooth-hull) | A demonstration of techniques to construct a smooth convex hull, using D3
 | [stochastic-urn](https://hollasch.github.io/stochastic-urn) | A simple web page illustrating the stochastic urn model of disease contagion
+
+</details>
