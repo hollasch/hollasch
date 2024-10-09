@@ -1,6 +1,6 @@
 Here's my stuff. Feel free to ask questions or log issues.
 
-<details><summary>Index of Repositories</summary>
+<details><summary style='font-weight:600;font-size:130%'>Index of Repositories</summary>
 
 ## Books
 | Site                                                   | Description
@@ -23,6 +23,7 @@ Here's my stuff. Feel free to ask questions or log issues.
 ## Experimental / Miscellaneous
 | Repo                                                   | Description
 |:-------------------------------------------------------|:------------------------------------------------------------------------------------
+| [easter](https://github.com/hollasch/easter)           | A simple program to display dates for Easter
 | [fpWorkbench](https://github.com/hollasch/fpWorkbench) | A set of C++ programs for experimenting with floating point numbers
 | [gibber](https://github.com/hollasch/gibber)           | I have a personal Perl script to generate English-like gibberish (for password inspiration). Someday I hope to port this to multiple platforms as a C++ tool.
 | [git-site](https://github.com/hollasch/git-site)       | A custom Git shell command to launch the home page for the current project
