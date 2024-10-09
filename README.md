@@ -1,6 +1,10 @@
 Here's my stuff. Feel free to ask questions or log issues.
 
-<details><summary style='font-weight:600;font-size:130%'>Index of Repositories</summary>
+<style>
+  summary.hollasch { font-size: 130%; font-wieight: 600; }
+</style>
+
+<details><summary class='hollasch'>Index of Repositories</summary>
 
 ## Books
 | Site                                                   | Description
